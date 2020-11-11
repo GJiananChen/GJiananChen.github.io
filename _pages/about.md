@@ -13,11 +13,11 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
+* I am a Ph.D. student in the [Department of Medical Biophysics](https://medbio.utoronto.ca/medical-biophysics) at [University of Toronto](https://www.utoronto.ca/), advised by Prof. [Anne Martel](https://medbio.utoronto.ca/faculty/martel). [[Curriculum Vitae](http://lantaoyu.com/files/jianan_cv.pdf)] [[Google Scholar](https://scholar.google.ca/citations?user=B9tp488AAAAJ&hl=en)]
 * My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
+* I obtained my Master’s Degree in Web Intelligence at [King's College London](https://www.kcl.ac.uk/). My MSc advisor is Prof. [Simon Parsons](https://nms.kcl.ac.uk/simon.parsons/).
+* I received my Bachelor’s Degree in Communications Engineering at [Shanghai University](http://en.shu.edu.cn/). My undergraduate research was supervised by Prof. [Liquan Shen](https://scholar.google.com/citations?user=EUEEtlYAAAAJ&hl=en).
 
 
 # Academic Services
-* Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020 (top reviewer award), NeurIPS 2020, AAAI 2021, ICLR 2021, AISTATS 2021, ICRA 2021.
-* Journal Reviewer: Journal of Artificial Intelligence Research (JAIR), IEEE Robotics and Automation Letters (RA-L).
+* Conference Reviewer: MICCAI 2020, IROS 2018.
