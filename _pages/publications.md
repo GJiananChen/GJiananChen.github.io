@@ -3,8 +3,14 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.ca/citati
 permalink: /publications/
 author_profile: true
 ---
-Under construction.
+<br>
+<b>[Potential of Raman spectroscopy in facilitating pharmaceutical formulations development – An AI perspective]() </b> <br>
+Ming Gao, Sibo Liu, <b>Jianan Chen</b>, Keith C Gordon, Fang Tian, Cushla M McGoverin
+<i>International Journal of Pharmaceutics</i>. <b>Int. J. Pharm 2021</b> 
+  
 <!-- <br>
+<br>
+<b>[Towards Data‐Efficient Learning: A Benchmark for COVID‐19 CT Lung and Infection Segmentation]()</b> <br>
 <b>[Autoregressive Score Matching](http://lantaoyu.com/publications/ARSM)</b> <br> 
 Chenlin Meng, <b>Lantao Yu</b>, Yang Song, Jiaming Song, and Stefano Ermon.
 <i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>. 
