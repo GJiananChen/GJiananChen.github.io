@@ -4,10 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Potential of Raman spectroscopy in facilitating pharmaceutical formulations development – An AI perspective](https://www.sciencedirect.com/science/article/abs/pii/S0378517321001381) </b> <br>
+[Potential of Raman spectroscopy in facilitating pharmaceutical formulations development – An AI perspective](https://www.sciencedirect.com/science/article/abs/pii/S0378517321001381)  <br>
 Ming Gao, Sibo Liu, <b>Jianan Chen</b>, Keith C Gordon, Fang Tian, Cushla M McGoverin
 <i>International Journal of Pharmaceutics</i>. <b>Int. J. Pharm 2021</b> 
-  
+
 <!-- <br>
 <br>
 <b>[Towards Data‐Efficient Learning: A Benchmark for COVID‐19 CT Lung and Infection Segmentation]()</b> <br>
