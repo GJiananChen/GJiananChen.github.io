@@ -7,10 +7,18 @@ author_profile: true
 <b>[Potential of Raman spectroscopy in facilitating pharmaceutical formulations development – An AI perspective](https://www.sciencedirect.com/science/article/abs/pii/S0378517321001381)  </b><br>
 Ming Gao, Sibo Liu, <b>Jianan Chen</b>, Keith C Gordon, Fang Tian, Cushla M McGoverin
 <i>International Journal of Pharmaceutics</i>. <b>Int. J. Pharm 2021</b> 
+
 <b>[Towards Data‐Efficient Learning: A Benchmark for COVID‐19 CT Lung and Infection Segmentation](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.14676)</b> <br>
 Jun Ma, Yixin Wang, Xingle An, Cheng Ge, Ziqi Yu, <b>Jianan Chen</b>, Qiongjie Zhu, Guoqiang Dong, Jian He, Zhiqiang He, Tianjia Cao, Yuntao Zhu, Ziwei Nie, Xiaoping Yang
 <i>Medical Physics</i>. <b>Med Phys 2020</b> 
 
+<b>[AMINN: Autoencoder-based Multiple Instance Neural Network for Outcome Prediction of Multifocal Liver Metastases](https://arxiv.org/abs/2012.06875)  </b><br>
+<b>Jianan Chen</b>, Helen Cheung, Laurent Milot, Anne L Martel
+<i>Preprint. arXiv:2012.068758</i>
+
+<b>[How distance transform maps boost segmentation CNNs: an empirical study]https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.14676</b> <br>
+Jun Ma, Yixin Wang, Xingle An, Cheng Ge, Ziqi Yu, <b>Jianan Chen</b>, Qiongjie Zhu, Guoqiang Dong, Jian He, Zhiqiang He, Tianjia Cao, Yuntao Zhu, Ziwei Nie, Xiaoping Yang
+<i>Medical Physics</i>. <b>Med Phys 2020</b>
 
 <!-- <br>
 <br>
