@@ -5,7 +5,8 @@ permalink: /contact/
 author_profile: true
 ---
 Department of Medical Biophysics, University of Toronto<br>
-Princess Margaret Cancer Research Tower, MaRS Centre
-101 College Street,Toronto, Ontario, CANADA M5G 1L7<br>
+Physical Sciences, Sunnybrook Research Institute<br>
+2075 Bayview Ave., M6 609
+Toronto, ON, CANADA M4N 3M5<br>
 Email: chenjn2010 [at] gmail.com
 
