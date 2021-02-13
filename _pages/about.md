@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<!--
 <p align="center">
   <img src="https://lantaoyu.github.io/files/jianan_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
+-->
 
 # About Me
 [[Curriculum Vitae](http://chenjn2010.github.io/files/jiananchen_cv.pdf)] [[Google Scholar](https://scholar.google.ca/citations?user=B9tp488AAAAJ&hl=en)]
