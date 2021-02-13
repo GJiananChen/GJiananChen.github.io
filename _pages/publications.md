@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.ca/citati
 permalink: /publications/
 author_profile: true
 ---
-<br>
+
 <b>[Potential of Raman spectroscopy in facilitating pharmaceutical formulations development – An AI perspective](https://www.sciencedirect.com/science/article/abs/pii/S0378517321001381)  </b><br>
 Ming Gao, Sibo Liu, <b>Jianan Chen</b>, Keith C Gordon, Fang Tian, Cushla M McGoverin
 <i>International Journal of Pharmaceutics</i>. <b>Int. J. Pharm 2021</b> 
@@ -16,10 +16,29 @@ Jun Ma, Yixin Wang, Xingle An, Cheng Ge, Ziqi Yu, <b>Jianan Chen</b>, Qiongjie Z
 <b>Jianan Chen</b>, Helen Cheung, Laurent Milot, Anne L Martel
 <i>Preprint. arXiv:2012.068758</i>
 
-<b>[How distance transform maps boost segmentation CNNs: an empirical study]https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.14676</b> <br>
-Jun Ma, Yixin Wang, Xingle An, Cheng Ge, Ziqi Yu, <b>Jianan Chen</b>, Qiongjie Zhu, Guoqiang Dong, Jian He, Zhiqiang He, Tianjia Cao, Yuntao Zhu, Ziwei Nie, Xiaoping Yang
-<i>Medical Physics</i>. <b>Med Phys 2020</b>
+<b>[How distance transform maps boost segmentation CNNs: an empirical study](http://proceedings.mlr.press/v121/ma20b/ma20b.pdf)</b> <br>
+Jun Ma, Zhan Wei, Yiwen Zhang, Yixin Wang, Rongfei Lv, Cheng Zhu, Chen Gaoxiang, Jianan Liu, Chao Peng, Lei Wang, Yunpeng Wang, <b>Jianan Chen</b>
+<i>In proceedings of Medical Imaging with Deep Learning</i>. <b>MIDL 2020</b>
 
+<b>[Texture heterogeneity of breast tumour in magnetic resonance imaging can be explained by differentially regulated genes](https://cancerres.aacrjournals.org/content/80/4_Supplement/P6-10-12)</b> <br>
+<b>Jianan Chen</b>, Yutaka Amemiya, Gregory Kuling, Homa Fashandi, Yulia Yerofeyeva, Heba Hussein, Elzbieta Slodkowska, Fiona Ginty, Arun Seth, Martin Yaffe, Anne L Martel
+<i>In proceedings of San Antonio Breast Cancer Symposium</i>. <b>SABCS 2020</b>
+
+<b>[Multi-layer domain adaptation for deep convolutional networks](https://arxiv.org/pdf/1909.02620.pdf)</b> <br>
+Ozan Ciga, <b>Jianan Chen</b>, Anne Martel
+<i>In proceedings of Domain Adaptation and Representation Transfer and Medical Image Learning with Less Labels and Imperfect Data in MICCAI</i>. <b>DART-MICCAI 2020</b>
+
+<b>[Unsupervised Clustering of Quantitative Imaging Phenotypes Using Autoencoder and Gaussian Mixture Model](https://arxiv.org/pdf/1909.02953.pdf)</b> <br>
+<b>Jianan Chen</b>, Laurent Milot, Helen MC Cheung, Anne L Martel
+<i>In proceedings of International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI 2020</b>
+
+<b>[No-reference quality assessment for screen content images based on hybrid region features fusion](https://ieeexplore.ieee.org/abstract/document/8624366)</b> <br>
+Linru Zheng, Liquan Shen, <b>Jianan Chen</b>, Ping An, Jun Luo
+<i>IEEE Transactions on Multimedia</i>. <b>IEEE TMM, 2019</b>
+
+<b>[Naturalization module in neural networks for screen content image quality assessment](https://www.researchgate.net/profile/Jiang_Xuhao2/publication/327810961_Naturalization_Module_in_Neural_Networks_for_Screen_Content_Image_Quality_Assessment/links/5f6854bba6fdcc008631d9f5/Naturalization-Module-in-Neural-Networks-for-Screen-Content-Image-Quality-Assessment.pdf)</b> <br>
+<b>Jianan Chen</b>, Liquan Shen, Linru Zheng, Xuhao Jiang
+<i>IEEE Signal Processing Letters</i>. <b>IEEE SPL, 2018</b>
 <!-- <br>
 <br>
 <b>[Towards Data‐Efficient Learning: A Benchmark for COVID‐19 CT Lung and Infection Segmentation]()</b> <br>
