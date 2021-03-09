@@ -23,4 +23,5 @@ redirect_from:
 
 
 # Academic Services
-* Conference Reviewer: MICCAI 2020, IROS 2018.
+* Journal Review: Medical Image Analysis 2021
+* Conference Review: MICCAI 2020 2021, IROS 2018
