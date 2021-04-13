@@ -3,6 +3,9 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.ca/citati
 permalink: /publications/
 author_profile: true
 ---
+<b>[Loss Odyssey in Medical Image Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0378517321001381)  </b><br>
+Jun Ma, <b>Jianan Chen</b>, Matthew Ng, Rui Huang, Yu Li, Chen Li, Xiaoping Yang, Anne L.Martel
+<i>Medical Image Analysis</i>. <b>MEDIA 2021</b> 
 
 <b>[Potential of Raman spectroscopy in facilitating pharmaceutical formulations development – An AI perspective](https://www.sciencedirect.com/science/article/abs/pii/S0378517321001381)  </b><br>
 Ming Gao, Sibo Liu, <b>Jianan Chen</b>, Keith C Gordon, Fang Tian, Cushla M McGoverin
