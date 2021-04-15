@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://chenjn2010.github.io/files/jiananchen_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://GJiananChen.github.io/files/jiananchen_cv.pdf)
 
