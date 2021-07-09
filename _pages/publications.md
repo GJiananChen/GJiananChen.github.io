@@ -17,7 +17,7 @@ Jun Ma, Yixin Wang, Xingle An, Cheng Ge, Ziqi Yu, <b>Jianan Chen</b>, Qiongjie Z
 
 <b>[AMINN: Autoencoder-based Multiple Instance Neural Network for Outcome Prediction of Multifocal Liver Metastases](https://arxiv.org/abs/2012.06875)  </b><br>
 <b>Jianan Chen</b>, Helen Cheung, Laurent Milot, Anne L Martel
-<i>Preprint. arXiv:2012.068758</i>
+<i>In press, In proceedings of International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI 2021 (early acceptance, top 10%)</b>
 
 <b>[How distance transform maps boost segmentation CNNs: an empirical study](http://proceedings.mlr.press/v121/ma20b/ma20b.pdf)</b> <br>
 Jun Ma, Zhan Wei, Yiwen Zhang, Yixin Wang, Rongfei Lv, Cheng Zhu, Chen Gaoxiang, Jianan Liu, Chao Peng, Lei Wang, Yunpeng Wang, <b>Jianan Chen</b>
@@ -33,7 +33,7 @@ Ozan Ciga, <b>Jianan Chen</b>, Anne Martel
 
 <b>[Unsupervised Clustering of Quantitative Imaging Phenotypes Using Autoencoder and Gaussian Mixture Model](https://arxiv.org/pdf/1909.02953.pdf)</b> <br>
 <b>Jianan Chen</b>, Laurent Milot, Helen MC Cheung, Anne L Martel
-<i>In proceedings of International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI 2020</b>
+<i>In proceedings of International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI 2019</b>
 
 <b>[No-reference quality assessment for screen content images based on hybrid region features fusion](https://ieeexplore.ieee.org/abstract/document/8624366)</b> <br>
 Linru Zheng, Liquan Shen, <b>Jianan Chen</b>, Ping An, Jun Luo
