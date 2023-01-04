@@ -1,7 +1,10 @@
 # main links links
 main:
   - tilte: "Projects"
-    url: /portfolio
+    url: /portfolio/
+    
+  - title: "News"
+    url: /talks/
     
   - title: "CV"
     url: /files/jiananchen_cv.pdf
