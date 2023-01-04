@@ -4,4 +4,14 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: projects
 ---
 
-In this paper, we present an end-to-end autoencoder-based multiple instance neural network (AMINN) for the prediction of survival outcomes in multifocal CRLM patients using radiomic features extracted from contrast-enhanced MRIs. Specifically, we jointly train an autoencoder to reconstruct input features and a multiple instance network to make predictions by aggregating information from all tumour lesions of a patient. Also, we incorporate a two-step normalization technique to improve the training of deep neural networks, built on the observation that the distributions of radiomic features are almost always severely skewed. Experimental results empirically validated our hypothesis that incorporating imaging features of all lesions improves outcome prediction for multifocal cancer. The proposed AMINN framework achieved an area under the ROC curve (AUC) of 0.70, which is 11.4% higher than the best baseline method. A risk score based on the outputs of AMINN achieved superior prediction in our multifocal CRLM cohort. The effectiveness of incorporating all lesions and applying two-step normalization is demonstrated by a series of ablation studies. A Keras implementation of AMINN is released (https://github.com/martellab-sri/AMINN).
+In this paper, we present an end-to-end autoencoder-based multiple instance neural network (AMINN) for the prediction
+of survival outcomes in multifocal CRLM patients using radiomic features extracted from contrast-enhanced MRIs. 
+Specifically, we jointly train an autoencoder to reconstruct input features and a multiple instance network to make 
+predictions by aggregating information from all tumour lesions of a patient. Also, we incorporate a two-step 
+normalization technique to improve the training of deep neural networks, built on the observation that the 
+distributions of radiomic features are almost always severely skewed. Experimental results empirically validated our
+hypothesis that incorporating imaging features of all lesions improves outcome prediction for multifocal cancer. 
+The proposed AMINN framework achieved an area under the ROC curve (AUC) of 0.70, which is 11.4% higher than the best 
+baseline method. A risk score based on the outputs of AMINN achieved superior prediction in our multifocal CRLM 
+cohort. The effectiveness of incorporating all lesions and applying two-step normalization is demonstrated by a 
+series of ablation studies. A Keras implementation of AMINN is released (https://github.com/martellab-sri/AMINN).
