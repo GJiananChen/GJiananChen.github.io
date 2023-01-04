@@ -24,4 +24,4 @@ redirect_from:
 
 # Academic Services
 * Journal Review: Medical Image Analysis, Frontiers in Oncology
-* Conference Review: MICCAI 2021, MICCAI 2020, IROS 2018
+* Conference Review: MICCAI 2020-2022, IROS 2018
