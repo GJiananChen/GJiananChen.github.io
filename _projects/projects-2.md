@@ -1,6 +1,6 @@
 ---
 title: "Multifocal and Metastatic Cancer Outcome Prediction with Multiple Instance Learning"
-excerpt: "Short description of portfolio item number 1<br/><img src='./images/AMINN.png'/>"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://gjiananchen.github.io/images/AMINN.png'/>"
 collection: projects
 ---
 
