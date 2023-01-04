@@ -1,6 +1,6 @@
 ---
 title: "General Zero-shot Stain Deconvolution for Histopathology Images"
-excerpt: "Short description of portfolio item number 1<br/><img src="/images/pgdips.png"/>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/pgdips.png'/>"
 collection: projects
 ---
 
