@@ -1,5 +1,8 @@
 # main links links
 main:
+  - tilte: "Selected Projects"
+    url: /portfolio
+    
   - title: "CV"
     url: /files/jiananchen_cv.pdf
 
