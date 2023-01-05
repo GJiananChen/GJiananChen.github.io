@@ -22,8 +22,8 @@ redirect_from:
 * Conference Review: MICCAI 2020-2022, IROS 2018
 
 # Featured Projects
-[https://gjiananchen.github.io/projects/pgdips/](## Physics-guided Deep Image Prior for Stain Deconvolution)
+[## Physics-guided Deep Image Prior for Stain Deconvolution](https://gjiananchen.github.io/projects/pgdips/)
 ![pgdips](https://gjiananchen.github.io/images/CODIDO.png)
-[https://gjiananchen.github.io/projects/aminn/](## Multifcoal and Metastatic Cancer Outcome Prediction with Multiple Instance Learning)
+[## Multifcoal and Metastatic Cancer Outcome Prediction with Multiple Instance Learning](https://gjiananchen.github.io/projects/aminn/)
 ![AMINN](https://gjiananchen.github.io/images/AMINN.png)
 
