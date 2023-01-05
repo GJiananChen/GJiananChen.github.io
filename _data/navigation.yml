@@ -3,8 +3,8 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "News"
-    url: /talks/
+  #- title: "News"
+  #  url: /talks/
     
   - title: "CV"
     url: /files/jiananchen_cv.pdf
