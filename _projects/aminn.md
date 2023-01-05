@@ -1,9 +1,11 @@
 ---
 title: "Multifocal and Metastatic Cancer Outcome Prediction with Multiple Instance Learning"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://gjiananchen.github.io/images/500x300.png'/>"
+layout: single-portfolio
+excerpt: "<img src='https://gjiananchen.github.io/images/AMINN.png' alt=''>"
 collection: projects
+header: 
+  og_image: "images/AMINN.png"
 ---
-
 
 ![AMINN](https://gjiananchen.github.io/images/AMINN.png)
 In this paper, we present an end-to-end autoencoder-based multiple instance neural network (AMINN) for the prediction

@@ -1,7 +1,10 @@
 ---
 title: "General Zero-shot Stain Deconvolution for Histopathology Images"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://gjiananchen.github.io/images/pgdips.png'/>"
+layout: single-portfolio
+excerpt: "<img src='https://gjiananchen.github.io/images/pgdips.png' alt=''>"
 collection: projects
+header: 
+  og_image: "images/pgdips.png"
 ---
 
 ![pgdips](https://gjiananchen.github.io/images/pgdips.png)
