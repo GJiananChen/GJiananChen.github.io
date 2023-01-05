@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!--
-<p align="center">
-  <img src="https://lantaoyu.github.io/files/jianan_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
--->
 
 # About Me
 [[Curriculum Vitae](http://GJiananChen.github.io/files/jiananchen_cv.pdf)] [[Google Scholar](https://scholar.google.ca/citations?user=B9tp488AAAAJ&hl=en)]
@@ -27,6 +22,8 @@ redirect_from:
 * Conference Review: MICCAI 2020-2022, IROS 2018
 
 # Featured Projects
-
+[](## Physics-guided Deep Image Prior for Stain Deconvolution)
+![pgdips](https://gjiananchen.github.io/images/CODIDO.png)
+[](## Multifcoal and Metastatic Cancer Outcome Prediction with Multiple Instance Learning)
 ![AMINN](https://gjiananchen.github.io/images/AMINN.png)
-![pgdips](https://gjiananchen.github.io/images/pgdips.png)
+
